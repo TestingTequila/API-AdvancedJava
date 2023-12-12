@@ -1,0 +1,28 @@
+1. In order to perform repetitive tasks, we use loops
+=> Ashish [10 times]
+
+//1. while
+
+while(condition)
+{
+  //this will execute only if condition is true
+  // and if the condition fails, loop stops
+  I/D operator
+}
+
+//2. for loop
+
+for(initializeVariable; Condition; I/D)
+{
+  //this will execute only if condition is true
+  // and if the condition fails, loop stops
+}
+
+//3. Advanced for loop
+
+for(dataTypeOfGroup aliasName : nameOfGroup)
+{
+action
+}
+//4. Advantages of one loop over the other
+
